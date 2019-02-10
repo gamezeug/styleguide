@@ -1,0 +1,11 @@
+Font Color: #f3ad13
+
+Title: Gamezeug
+Font: Spectral SC
+Size: 44 px
+
+Subtitle: Open Source Gaming
+Font: Spectral SC Light
+Size: 16 px
+
+
