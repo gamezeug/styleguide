@@ -11,7 +11,7 @@
    width="100"
    version="1.1"
    id="svg30"
-   sodipodi:docname="gamezeug-icon.svg"
+   sodipodi:docname="gamezeug-icon2.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    height="93"
    inkscape:export-filename="/home/artun/src/gamezeug-styleguide/favicon.png"
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,8 +45,8 @@
      id="namedview32"
      showgrid="false"
      inkscape:zoom="4.0000001"
-     inkscape:cx="51.326626"
-     inkscape:cy="29.854909"
+     inkscape:cx="-21.639534"
+     inkscape:cy="29.856911"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -67,9 +67,9 @@
          width="42"
          xml:space="preserve"
          enable-background="new 0 0 0 0"
-         viewBox="0 0 0 0"
-         y="0px"
-         x="0px"
+         viewBox="11 13 42 39"
+         y="13"
+         x="11"
          version="1.1"
          data-color="1"><path
            inkscape:connector-curvature="0"
